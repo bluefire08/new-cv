@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container {
+  background-color: #ece5c7;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+}
+.bottom-container {
+}
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 700px;
+  left: 300px;
+  width: 200px;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+width: 200px;
+}
+.mountain{
+  width: 70%;
+}
